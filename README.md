@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi! 👋 I'm ...
 
 - 🌱 Learning data science independently and through my degree in **Economics**
 - 🤝 Eager to **collaborate** on any data science project, with a special interest in the **music industry**
